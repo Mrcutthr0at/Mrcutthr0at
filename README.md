@@ -48,4 +48,6 @@ Hi there! I’m a curious and creative **Mechanical Engineering student** who’
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?section=footer&color=0:1a1a1a,100:0044ff&height=120)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+stopping+by!;Happy+coding,+Walin!&center=true&width=500&height=45&color=0044FF&vCenter=true&size=22">
+</p>
