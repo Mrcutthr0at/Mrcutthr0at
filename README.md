@@ -25,7 +25,7 @@ Hi there! I’m a curious and creative **Mechanical Engineering student** who’
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java script,java,cpp,arduino,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,arduino,html,css,git,github,vscode" />
 </p>
 
 ---
