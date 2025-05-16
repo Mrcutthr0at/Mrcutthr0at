@@ -49,5 +49,5 @@ Hi there! I’m a curious and creative **Mechanical Engineering student** who’
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+stopping+by!;Happy+coding,+Walin!&center=true&width=500&height=45&color=0044FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+stopping+by!;Happy+coding&center=true&width=500&height=45&color=0044FF&vCenter=true&size=22">
 </p>
